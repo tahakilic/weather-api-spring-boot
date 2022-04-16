@@ -5,6 +5,8 @@ import com.example.weatherapihomework.model.dto.Location;
 import com.example.weatherapihomework.model.dto.Request;
 import lombok.Data;
 
+
+
 @Data
 public class WeatherDto {
 
